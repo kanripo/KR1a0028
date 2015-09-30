@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易經傳集解
-#+DATE: 2015-09-23 09:34:23
-#+PROPERTY: JUAN 34
+#+DATE: 2015-08-24 21:54:21.592461
+#+PROPERTY: ID KR1a0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十四
 <pb:KR1a0028_WYG_034-1a>¶
 欽定四庫全書¶
 　周易經傳集解卷三十四¶
@@ -542,4 +544,3 @@
 　¶
 　¶
 　周易經傳集解卷三十四¶
-

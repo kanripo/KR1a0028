@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易經傳集解
-#+DATE: 2015-09-23 09:34:23
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:54:21.029696
+#+PROPERTY: ID KR1a0028
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0028_WYG_005-1a>¶
 欽定四庫全書¶
 　周易經傳集解小畜履卷五¶
@@ -470,4 +472,3 @@
 　¶
 　¶
 　周易經傳集解卷五¶
-
